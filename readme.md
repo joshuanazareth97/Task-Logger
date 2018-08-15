@@ -8,6 +8,5 @@ Uses the awesome [gspread] (https://github.com/burnash/gspread) python wrapper f
 Simple command-line interface with no configurable options.
 
 ####Coming Soon
-+ SQLite Support
 + Configure where to log the tasks
-+ WebUI 
++ Add parser to display summary of tasks
