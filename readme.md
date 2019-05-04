@@ -7,6 +7,13 @@ Uses the awesome [gspread](https://github.com/burnash/gspread) python wrapper fo
 
 Simple command-line interface with no configurable options.
 
+
+#### Quick Start
+- Clone the repository
+- Install requirements
+- Configure gspread
+- Run `tasklogger.py <your task>` to log your task
+
 #### Coming Soon
 - Configure where to log the tasks
 - Add parser to display summary of tasks
